@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Trialserv-FOCT.aternos.me:48436",
+    "ip": "Trialserv-FOCT.aternos.me",
     "port": 48436,
     "version": "",
     "try-creative": false
